@@ -1,2 +1,8 @@
-# CS-340-Client-Server-
-Project Two 
+# CS-340-Client-Server- Project Two Dashboard
+
+# How do you write programs that are maintainable, readable and adaptable? What were the adavantages of working in this way? How else could you use this CRUD Python module in the future?
+To ensure that programs are maintainable, readable and adaptable, code should be well-organized, well-written, with comments, and functions that can be re-useable. By working in this way it was easier to manage and understand. The CRUD Python module could be used for creating and modifying any future visual dashboards.
+# How do you approach a problem as a computer scientist? How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As a computer scientist one would examine and gather data on the problem. Put together a visual representation of the data This would help create a viable solution to the problem. My approach to this project was similar to my approach to other projects.I made a list of the items/tasks that needed to be completed and checked off the steps as they were completed. I would gather the data needed to set up the database. Put together a CRUD file for the project. And modify the file as needed to capture the client requests.
+# What do computer scientists do,and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists help solve problems using various forms of technology. It matters because the results help us achieve solutions to these problems and make improvements as well that benefit humankind. The work on this type of project provides valuable insight and data to companies like Grazioso Salvare to help improve their business and offer better solutions or services to their customers.
